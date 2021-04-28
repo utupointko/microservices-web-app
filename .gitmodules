@@ -1,0 +1,9 @@
+[submodule "backend/admin-django"]
+	path = backend/admin-django
+	url = git@github.com:utupointko/admin-django.git
+[submodule "backend/main-flask"]
+	path = backend/main-flask
+	url = git@github.com:utupointko/main-flask.git
+[submodule "frontend/crud-react"]
+	path = frontend/crud-react
+	url = git@github.com:utupointko/crud-react.git
